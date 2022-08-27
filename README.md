@@ -1,4 +1,4 @@
 # knotty
 
-# Usage
-# php knotty.php help
+Usage
+php knotty.php help
